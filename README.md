@@ -20,7 +20,7 @@ Setup
 vagrant plugin install vagrant-salt
 ```
 
-* Well you already cloned this repo
+* Clone this repo if you're reading this on github
 
 * Add your salt repo. 
 ```
